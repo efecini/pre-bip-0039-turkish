@@ -1,0 +1,7 @@
+
+
+createOutputFile('sorteddd', final_siralanacak)
+final_siralanacak = readFromTXTFileAndGenerateArray('/Users/efecini-plentific/Desktop/bip-0039:turkish.txt/sirala.py')
+final_siralanacak.sort()
+from functions import createOutputFile
+from util import readFromTXTFileAndGenerateArray
