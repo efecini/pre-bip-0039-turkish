@@ -1,4 +1,4 @@
-Orjiinali İngilizce olan, Bitcoin özel anahtar yaratım sürecinde kullanılan kelimelerin Türkçe versiyonudur.
+Orjinali İngilizce olan, Bitcoin özel anahtar yaratım sürecinde kullanılan kelimelerin Türkçe versiyonudur.
 
 Kurallar:
 
