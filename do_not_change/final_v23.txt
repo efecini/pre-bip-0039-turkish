@@ -1375,6 +1375,7 @@ nezaket
 nezle
 nifak
 nihayet
+nihilizm
 nikel
 nikotin
 nimet
@@ -1910,7 +1911,6 @@ volkan
 votka
 vukuat
 vurgu
-vuslat
 yafta
 yahni
 yak
