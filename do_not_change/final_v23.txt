@@ -160,6 +160,7 @@ baki
 bakkal
 baklava
 bal
+balgam
 balta
 balya
 bamya
@@ -1645,7 +1646,6 @@ sigara
 sigorta
 sihirbaz
 sikke
-siklet
 silah
 silgi
 silme
